@@ -1,3 +1,5 @@
+An advanced OOP project that simulates a vast Ecosystem with mountains, rivers, animals, seasons, etc.
+
 Compile Instructions:
 ( can do with Makefile-Instruction : make )
 
